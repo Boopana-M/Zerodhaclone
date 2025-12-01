@@ -1,0 +1,51 @@
+#signup 
+{
+    background-color:yellowgreen;
+    height: 40px;
+    width: 250px;
+}
+#su a
+{
+   
+   background-color:rgb(228, 238, 152);
+   border:none;
+}
+#su:hover a{
+    background-color:rgb(246, 89, 136);
+}
+#ab a
+{
+   
+   background-color:rgb(228, 238, 152);
+}
+#ab:hover a{
+    background-color:rgb(246, 89, 136);
+}
+#pd a
+{
+   
+   background-color:rgb(228, 238, 152);
+}
+#pd:hover a{
+    background-color:rgb(246, 89, 136);
+}
+#pr a
+{
+   
+   background-color:rgb(228, 238, 152);
+}
+#pr:hover a{
+    background-color:rgb(246, 89, 136);
+}
+#sp a
+{
+   
+   background-color:rgb(228, 238, 152);
+}
+#sp:hover a{
+    background-color:rgb(246, 89, 136);
+}
+
+nav{
+    float:right;
+}
